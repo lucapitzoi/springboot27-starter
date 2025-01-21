@@ -1,4 +1,4 @@
-package org.sindria.xpipe.lib.springboot27-starter.exceptions;
+package org.sindria.xpipe.lib.springboot27starter.exceptions;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package org.sindria.xpipe.lib.springboot27-starter;
+package org.sindria.xpipe.lib.springboot27starter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

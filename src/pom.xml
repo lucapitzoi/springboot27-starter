@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>org.sindria.xpipe.lib</groupId>
-	<artifactId>springboot27-starter</artifactId>
+	<artifactId>springboot27starter</artifactId>
 	<version>0.1.0</version>
-	<name>springboot27-starter</name>
+	<name>springboot27starter</name>
 	<description>SpringBootStarter for springboot 2.7</description>
 
 	<properties>

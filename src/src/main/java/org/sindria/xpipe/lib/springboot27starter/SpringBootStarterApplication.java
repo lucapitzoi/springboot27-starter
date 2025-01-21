@@ -1,4 +1,4 @@
-package org.sindria.xpipe.lib.springboot27-starter;
+package org.sindria.xpipe.lib.springboot27starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
