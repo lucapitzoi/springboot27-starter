@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>org.sindria.xpipe.core.policies</groupId>
-	<artifactId>xpipe-policies</artifactId>
-	<version>1.0.0</version>
-	<name>xpipe-policies</name>
-	<description>Manage and verify policies micro-service</description>
+	<groupId>org.sindria.xpipe.lib</groupId>
+	<artifactId>springboot27-starter</artifactId>
+	<version>0.1.0</version>
+	<name>springboot27-starter</name>
+	<description>SpringBootStarter for springboot 2.7</description>
 
 	<properties>
 		<java.version>17</java.version>
