@@ -1,13 +1,13 @@
-package org.sindria.xpipe.core.policies;
+package org.sindria.xpipe.lib.springboot27-starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XPipePoliciesApplication {
+public class SpringBootStarterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(XPipePoliciesApplication.class, args);
+		SpringApplication.run(SpringBootStarterApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package org.sindria.xpipe.core.policies.controllers;
+package org.sindria.xpipe.lib.springboot27-starter.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletResponse;
